@@ -46,7 +46,7 @@ image::sbis.png[Настройки процесса в {of-mc} для серви
 ****
 include::ROOT:requirements.adoc[tags=url-sbis]
 +
-include::GBL-3537@edi:sbis:connection-settings.adoc[tags=params]
+include::5.5.5@edi:sbis:connection-settings.adoc[tags=params]
 ****
 +
 . Укажите остальные настройки процесса:

@@ -31,11 +31,9 @@
 ** Стандартный адрес для сервиса СБИС: \https://online.sbis.ru.
 ** Адрес тестового сервера для сервиса СБИС: \https://fix-online-sbis.ru.
 +
-include::GBL-3537@edi:sbis:connection-settings.adoc[tags=urls]
+include::5.5.5@edi:sbis:connection-settings.adoc[tags=urls]
 // end::url-sbis[]
 ****
-
-
 
 [#docsvision]
 == Требования к системе {dv}
