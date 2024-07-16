@@ -78,21 +78,6 @@ NOTE: В {of-mc}, в разделах Очередь "xref:6.1@mgmtconsole:user:
 }
 ----
 
-[#config-services]
-== Настройки конфигурации сервисов
-
-После установки модуля в {of-mc} вместо названия _Сервиса обработки_ и _Типа сообщений_ отображается идентификатор. Чтобы вместо идентификаторов отображались локализованные названия, необходимо в конфигурационном файле по адресу `C:\Program Files (x86)\Docsvision\ManagementConsoleExternalAPI\DocsVision.ManagementConsole.ExternalAPI.WindowsService.exe.config` добавить следующие строки:
-
-[source,html]
-----
-<WorkerFactories>
-    <Libraries>
-      <add Path="DocsVision.BackOffice.ObjectModel, Version=5.5.0.0, Culture=neutral, PublicKeyToken=7148afe997f90519" />
-      <add Path="DocsVision.M4dRegistry.WorkerService, Version=5.5.0.0, Culture=neutral, PublicKeyToken=7148afe997f90519" />
-    </Libraries>
-  </WorkerFactories>
-----
-
 [#register]
 == Настройки регистрации МЧД
 
