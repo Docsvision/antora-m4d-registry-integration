@@ -1,6 +1,6 @@
-= Обновление модуля
+:update: m4dregistry
 
-:update: m4dregistry-*
+= Обновление модуля
 
 include::webclient:ROOT:partial$excerpts.adoc[tags=what-changed]
 
