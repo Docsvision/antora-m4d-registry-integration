@@ -26,6 +26,8 @@ include::system::partial$go.adoc[]
 +
 include::system:ROOT:partial$excerpts.adoc[tags=update-mode]
 +
+include::system:ROOT:partial$excerpts.adoc[tags=update-mode]
++
 .Флаг обновления базы данных
 image::install-update-db-flag.png[Флаг обновления базы данных]
 +
