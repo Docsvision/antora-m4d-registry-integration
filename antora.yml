@@ -1,6 +1,6 @@
 name: m4d-registry
-version: 'TSK-11773'
-prerelease: true
+version: '5.5.1'
+prerelease: false
 title: Модуль интеграции с реестром МЧД
 asciidoc:
   attributes:
