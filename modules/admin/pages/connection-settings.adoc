@@ -39,10 +39,10 @@ include::ROOT:requirements.adoc[tags=url-kd]
 --
 ****
 +
-.Настройки процесса в {of-mc} для сервиса СБИС
-image::sbis.png[Настройки процесса в {of-mc} для сервиса СБИС]
+.Настройки процесса в {of-mc} для сервиса Saby (СБИС)
+image::sbis.png[Настройки процесса в {of-mc} для сервиса Saby (СБИС)]
 +
-.Для СБИС:
+.Для Saby (СБИС):
 ****
 include::ROOT:requirements.adoc[tags=url-sbis]
 +
