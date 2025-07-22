@@ -35,8 +35,8 @@ include::dv6@install-linux:ROOT:requirements-software.adoc[tags=oslist]
 * _Точка подключения_ -- адрес подключения к сервису СБИС:
 ** Стандартный адрес для сервиса СБИС: \https://online.sbis.ru.
 ** Адрес тестового сервера для сервиса СБИС: \https://fix-online-sbis.ru.
-+
-include::dev@edi:sbis:connection-settings.adoc[tags=urls]
+// +
+// include::dev@edi:sbis:connection-settings.adoc[tags=urls]
 // end::url-sbis[]
 ****
 
