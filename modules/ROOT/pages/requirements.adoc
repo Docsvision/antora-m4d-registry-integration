@@ -20,19 +20,19 @@
 ****
 // tag::url-kd[]
 * _Точка подключения_ -- адрес подключения к сервису {kd}:
-** Стандартный адрес для сервиса {kd}: \https://m4d-api.kontur.ru.
-** Адрес тестового сервера для сервиса {kd}: \https://m4d-api-staging.testkontur.ru для {kd}.
+** Стандартный адрес для сервиса {kd}: `\https://m4d-api.kontur.ru`.
+** Адрес тестового сервера для сервиса {kd}: `\https://m4d-api-staging.testkontur.ru`.
 // end::url-kd[]
 ****
 .Для Saby (СБИС):
 ****
 // tag::url-sbis[]
 * _Точка подключения_ -- адрес подключения к сервису Saby (СБИС):
-** Стандартный адрес для сервиса Saby (СБИС): \https://online.sbis.ru.
-** Адрес тестового сервера для сервиса Saby (СБИС): \https://fix-online-sbis.ru.
+** Стандартный адрес для сервиса Saby (СБИС): `\https://online.sbis.ru`.
+** Адрес тестового сервера для сервиса Saby (СБИС): `\https://fix-online-sbis.ru`.
+// end::url-sbis[]
 +
 include::5.5.5@edi:sbis:connection-settings.adoc[tags=urls]
-// end::url-sbis[]
 ****
 
 [#docsvision]
