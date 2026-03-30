@@ -35,19 +35,8 @@ image::settings.png[Настройки процесса в {of-mc} для сер
 Поле обязательно для заполнения.
 +
 --
-include::ROOT:requirements.adoc[tags=url-kd]
+include::ROOT:page$requirements.adoc[tags=url-kd]
 --
-****
-+
-.Настройки процесса в {of-mc} для сервиса СБИС
-image::sbis.png[Настройки процесса в {of-mc} для сервиса СБИС]
-+
-.Для СБИС:
-****
-include::ROOT:requirements.adoc[tags=url-sbis]
-+
-include::5.5.5@edi:sbis:connection-settings.adoc[tags=params]
-****
 +
 . Укажите остальные настройки процесса:
 +
