@@ -37,6 +37,7 @@ image::settings.png[Настройки процесса в {of-mc} для сер
 --
 include::ROOT:page$requirements.adoc[tags=url-kd]
 --
+****
 +
 . Укажите остальные настройки процесса:
 +
