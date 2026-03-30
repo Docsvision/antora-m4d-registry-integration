@@ -26,6 +26,15 @@ include::dv6@install-linux:ROOT:requirements-software.adoc[tags=oslist]
 * Адрес тестового сервера {kd}: \https://m4d-api-staging.testkontur.ru
 // end::url[]
 
+.Для {kd}:
+****
+// tag::url-kd[]
+* _Точка подключения_ -- адрес подключения к сервису {kd}:
+** Стандартный адрес для сервиса {kd}: \https://m4d-api.kontur.ru.
+** Адрес тестового сервера для сервиса {kd}: \https://m4d-api-staging.testkontur.ru для {kd}.
+// end::url-kd[]
+****
+
 [#docsvision]
 == Требования к системе {dv}
 
